@@ -1,7 +1,7 @@
-## This folder contains materials for Assignment one of DATA 512.
+## This folder contains materials for Assignment One of DATA 512.
 
 ### Description
-In this assignment, I queried Wikipedia's Legacy Pagecount API and the current Pageview API to to examine monthly traffic patterns across desktop and mobile users from January 2008 through August 2020. The raw data file in this folder containing monthly traffic (en-wikipedia_traffic_200712-202008.csv) contains the consolidated output from both APIs.
+In this assignment, I queried Wikipedia's Legacy Pagecount API and the current Pageview API to to examine monthly traffic patterns across desktop and mobile users from January 2008 through August 2020. The raw data file in this folder contains monthly traffic (en-wikipedia_traffic_200712-202008.csv) and reflects the consolidated output from both APIs.
 
 The following is a description of the available fields:
 
@@ -23,13 +23,13 @@ The following is a description of the available fields:
 
 ### Data Sources and Licenses
 
-**Wikipedia Legacy Pagecount API reference**: 
--https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts  
--https://wikimedia.org/api/rest_v1/#/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end  
+**Wikipedia Legacy Pagecount API reference**:   
+https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts
+https://wikimedia.org/api/rest_v1/#/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end 
 
-**Wikipedia Pageview API reference**: 
--https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews    
--https://wikimedia.org/api/rest_v1/#/Pageviews%20data    
+**Wikipedia Pageview API reference**:   
+https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews    
+https://wikimedia.org/api/rest_v1/#/Pageviews%20data    
 
 **Wikipedia Terms & Conditions**: https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions  
 **Creative Commons License**: https://creativecommons.org/licenses/by-sa/3.0/  
