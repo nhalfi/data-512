@@ -1,3 +1,5 @@
+## DATA 512 Assignment 2: Bias in Data
+
 This repository describes the analysis I conducted for Assignment 2 of DATA 512, where I examined bias in the Wikipedia Talk corpus. This corpus contains data on the scoring of aggression, personal attacks, and toxicity in Wikipedia editor dicussions.
 
 I examined two datasets from this corpus:  
