@@ -11,7 +11,7 @@ My research questions were as follows:
 #### 1. Are non-native English speakers more or less likely to label comments as aggressive than native English speakers?
 #### 2. What types of personal attacks are most common, and what kind of words are most often associated with one type vs. another?
 
-Please refer to the Jupyter notebook in this repository for more details on my conclusions.
+Please refer to the Jupyter notebook in this repository for more details on my conclusions. I have also included CSV files with outputs of my data cleaning and transformation.
 
 
 For additional information on the dataset schema, please refer to the following: https://meta.wikimedia.org/wiki/Research:Detox/Data_Release    
