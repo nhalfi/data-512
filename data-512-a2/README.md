@@ -1,4 +1,4 @@
-This README file describes the analysis I conducted for Assignment 2 of DATA 512, where I examined bias in the Wikipedia Talk corpus. This corpus contains data on the scoring of aggression, personal attacks, and toxicity in Wikipedia editor dicussions.
+This repository describes the analysis I conducted for Assignment 2 of DATA 512, where I examined bias in the Wikipedia Talk corpus. This corpus contains data on the scoring of aggression, personal attacks, and toxicity in Wikipedia editor dicussions.
 
 I examined two datasets from this corpus:  
 * Aggression dataset (https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Aggression/4267550)  
